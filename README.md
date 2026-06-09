@@ -4,16 +4,16 @@
 
 ## 👨‍💻 About Me
 
-A passionate developer and 5th semester Computer Science student exploring the world of software development. I love building things, solving problems, and continuously learning new technologies.
+A passionate developer and 6th semester Computer Science student exploring the world of software development. I love building things, solving problems, and continuously learning new technologies.
 
 **Also known as:** `sebuahdelusi`
 
 ```javascript
 const sebuahdelusi = {
     pronouns: "he/him",
-    code: ["JavaScript", "Python", "Java", "HTML/CSS", "C/C++ (Arduino)"],
+    code: ["JavaScript", "Python", "Java", "HTML/CSS", "C/C++ (Arduino), Flutter"],
     currentStatus: "5th Semester CS Student",
-    interests: ["Software Development", "Web Development", "IoT", "Open Source"],
+    interests: ["Software Development", "Web Development", "IoT", "Open Source", "Android Development"],
     currentlyLearning: "Advanced programming concepts and modern development practices",
     funFact: "I believe the best code is the code that doesn't need comments"
 };
@@ -21,7 +21,7 @@ const sebuahdelusi = {
 
 ## 🎓 Education
 
-📚 Currently pursuing my degree in Computer Science - **5th Semester**
+📚 Currently pursuing my degree in Computer Science - **6th Semester**
 
 ## 🛠️ Tech Stack
 
